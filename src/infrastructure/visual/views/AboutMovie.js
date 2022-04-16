@@ -1,12 +1,10 @@
-import { Link } from "react-router-dom";
 
-function AbouytMovie () {
+function AboutMovie () {
   return(
     <div>
-      <p>Second Page</p>
-      <Link to="/">Back</Link>
+      <p>About the movie page</p>
     </div>
   )
 }
 
-export default AbouytMovie
+export default AboutMovie
